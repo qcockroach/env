@@ -1,4 +1,4 @@
 # env
 
-This project is back-end for `torri` project.
+This project is back-end for `torii` project.
 
